@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProtobufSerializer/bin/Release/ProtobufSerializer.pdb
+/ProtobufSerializer/bin/Release/ProtobufSerializer.dll
+/ProtobufSerializer/obj/Debug/ProtobufSerializer.pdb
+/ProtobufSerializer/obj/Debug/ProtobufSerializer.dll
+/ProtobufSerializer/obj/Debug/ProtobufSerializer.csproj.FileListAbsolute.txt
+/ProtobufSerializer/obj/Debug/ProtobufSerializer.csproj.CoreCompileInputs.cache
+/ProtobufSerializer/obj/Debug/ProtobufSerializer.csproj.AssemblyReference.cache
+/ProtobufSerializer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ProtobufSerializer/obj/Release/ProtobufSerializer.pdb
+/ProtobufSerializer/obj/Release/ProtobufSerializer.dll
+/ProtobufSerializer/obj/Release/ProtobufSerializer.csproj.AssemblyReference.cache
